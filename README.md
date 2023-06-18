@@ -14,11 +14,13 @@ This project focuses on predicting each applicant's ability to repay the loan.
 
 Stages in the project is: 
 
-First,  EDA to determine the distribution of each column that has a relationship to the data
+- First,  EDA to determine the distribution of each column that has a relationship to the data
 
-Second, cleaning,preprocessing the data such as impute the missing values, scaling etc.
+- Second, cleaning,preprocessing the data such as impute the missing values, scaling etc.
 
-Third is modeling, i use metrics AUC for this modeling with the results :
+- Third is modeling, i use metrics AUC for this modeling because auc have ability to distinguish between different classes. The higher the AUC value, the better the model's ability to distinguish between different classes.
+
+with the results :
 1. AUC Logistic Regression: 0.7335502751814258
 2. AUC Random Forest: 0.7335502751814258
 3. AUC XGBoost: 0.7395828210184866
