@@ -8,7 +8,7 @@ This project focuses on predicting each applicant's ability to repay the loan.
 
 **Final_Project_Novanska_Aginta.ipynb** : notebooks related to modeling, EDA , prediction for this project
 
-**url.txt** link to my huggingface deployment
+**url.txt** link to my huggingface deployment [link deployment](https://huggingface.co/spaces/novanska/home-credit-eda)
 
 # Summary of This Project
 
